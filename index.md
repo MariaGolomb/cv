@@ -20,7 +20,7 @@ English: Pre-intermediate
 **Programming languages and technologies:**  
 * JavaScript, ES6 
 * HTML/HTML5   
-* CSS/CSS3 SASS 
+* CSS/CSS3 SASS  
 **Tools:**  
 * GIT, Webpack, VS Code, Eslint 
  
