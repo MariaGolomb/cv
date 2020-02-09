@@ -1,13 +1,15 @@
 # Maria Golomb #
  
-Date of birth: May 29, 1989
-Address: Prospect Gazety Pravda 46-91 
-Minsk, Republic of Belarus 
-Civil Status: Married 
-Tel: +375 29 6336163 
-Email: maria.golomb@gmail.com 
-Skype: Maria Golomb 
-Github: https://github.com/MariaGolomb 
+Date of birth: May 29, 1989  
+Address: Prospect Gazety Pravda 46-91  
+Minsk, Republic of Belarus  
+Civil Status: Married  
+Tel: +375 29 6336163  
+Email: maria.golomb@gmail.com  
+Skype: Maria Golomb  
+
+Github: https://github.com/MariaGolomb  
+
 English: Pre-intermediate 
  
 **Objective:** Position of JS Developer 
