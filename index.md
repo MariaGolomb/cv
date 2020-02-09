@@ -26,7 +26,7 @@ English: Pre-intermediate
  
 ## Projects ## 
 **Fancy weather**  
-Project:  [https://fancy-weather-d6a64.web.app/](https://fancy-weather-d6a64.web.app/)
+Project:  [https://fancy-weather-d6a64.web.app/](https://fancy-weather-d6a64.web.app/)  
 Environment: HTML, CSS, JavaScript, webpack, Eslint 
  
 **Simple piskel clone**  
