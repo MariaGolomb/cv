@@ -7,7 +7,7 @@ Civil Status: Married
 Tel: +375 29 6336163  
 Email: maria.golomb@gmail.com  
 Skype: Maria Golomb  
-Github: https://github.com/MariaGolomb  
+Github: [https://github.com/MariaGolomb](https://github.com/MariaGolomb)  
 English: Pre-intermediate 
  
 **Objective:** Position of JS Developer 
