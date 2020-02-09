@@ -30,11 +30,11 @@ Project:  [https://fancy-weather-d6a64.web.app/](https://fancy-weather-d6a64.web
 Environment: HTML, CSS, JavaScript, webpack, Eslint 
  
 **Simple piskel clone**  
-Project: https://simple-piskel-clone-63d29.firebaseapp.com  
+Project: [https://simple-piskel-clone-63d29.firebaseapp.com](https://simple-piskel-clone-63d29.firebaseapp.com)  
 Environment: HTML, CSS, JavaScript, webpack, Eslint 
  
 **Portfolio**  
-Project: https://mariagolomb.github.io/portfolio/  
+Project: [https://mariagolomb.github.io/portfolio/](https://mariagolomb.github.io/portfolio/)  
 Environment: HTML, CSS 
  
 ## Education: ## 
@@ -43,4 +43,4 @@ Belarusian State University of Informatics and Radioelectronics
 Faculty OF Information Technologies and Control  
   
 The Rolling Scopes School, certificate:  
-https://app.rs.school/certificate/mjt9ojjt 
+[https://app.rs.school/certificate/mjt9ojjt](https://app.rs.school/certificate/mjt9ojjt) 
